@@ -107,8 +107,5 @@ endmodule
 ### DECODE
 ![output](./d.jpg)
 
-
-
-
-
 ### RESULTS 
+8 to 3 Encoder and 3to8 Decoder has been implemented by using verilog and its outputs are validated.
