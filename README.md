@@ -90,16 +90,21 @@ assign D4=(A&~B&~C);
 endmodule
 ```
 ### RTL LOGIC  
-###
+### ENCODE
 ![output](./er.png)
+### DECODE
 ![output](./dr.png)
 
 ### TIMING DIGRAMS  
+### ENCODE
 ![output](./et.png)
+### DECODE
 ![output](./dt.png)
 
-### TRUTH TABLE 
+### TRUTH TABLE
+### ENCODE 
 ![output](./e.png)
+### DECODE
 ![output](./d.jpg)
 
 
